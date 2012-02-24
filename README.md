@@ -1,6 +1,6 @@
-# THIS REPOSITORY IS NO LONGER BEING MAINTAINED
+# 这个库将不再维护
 
-The content is now being maintained by the jQuery Project at the [learn.jquery.com repo](https://github.com/jquery/learn.jquery.com).
+现在,这个内容已经在[这个地方](https://github.com/jquery/learn.jquery.com)被维护.
 
 
 jQuery Fundamentals will be serving as the basis for a new jQuery learning site
@@ -10,11 +10,10 @@ post](http://blog.rebeccamurphey.com/the-future-of-jquery-fundamentals-and-a-con
 
 Please do not open issues on this repo; use the new jQuery Project repo instead.
 
-## Using this Material ##
+## 关于使用此资料 ##
 
-You are welcome to use this material according to the terms of the
-[license](http://creativecommons.org/licenses/by-sa/3.0/us/); if
-you're using it to teach a class, I'd love for you to let me know about it.
+你能够随意使用此资料,但是需要遵循[license](http://creativecommons.org/licenses/by-sa/3.0/us/);
+如果你需要拿这些东西来教书育人谋生存那就需要我的许可了!
 
 # Copyright & Licensing #
 
