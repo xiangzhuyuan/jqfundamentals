@@ -15,7 +15,7 @@ Please do not open issues on this repo; use the new jQuery Project repo instead.
 你能够随意使用此资料,但是需要遵循[license](http://creativecommons.org/licenses/by-sa/3.0/us/);
 如果你需要拿这些东西来教书育人谋生存那就需要我的许可了!
 
-# Copyright & Licensing #
+# 版权许可 #
 
 This material is Copyright &copy;2011 Rebecca Murphey and licensed under the
 [Creative Commons Attribution-Share Alike 3.0 United States
